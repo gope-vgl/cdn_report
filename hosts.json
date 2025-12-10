@@ -1,0 +1,222 @@
+[
+{
+  "hostname": "atc-host-1",
+  "ip": "10.68.253.41"
+},
+{
+  "hostname": "atc-host-2",
+  "ip": "10.68.253.42"
+},
+{
+  "hostname": "ats-edge-ra-1",
+  "ip": "192.168.175.45"
+},
+{
+  "hostname": "ats-edge-ra-2",
+  "ip": "192.168.175.49"
+},
+{
+  "hostname": "ats-edge-co-1",
+  "ip": "10.68.176.202"
+},
+{
+  "hostname": "ats-edge-co-2",
+  "ip": "10.68.176.201"
+},
+{
+  "hostname": "ats-edge-co-3",
+  "ip": "10.68.176.203"
+},
+{
+  "hostname": "ats-edge-co-4",
+  "ip": "10.68.176.204"
+},
+{
+  "hostname": "ats-edge-qota-1",
+  "ip": "10.68.212.82"
+},
+{
+  "hostname": "ats-edge-qota-2",
+  "ip": "10.68.212.83"
+},
+{
+  "hostname": "ats-edge-talc-1",
+  "ip": "192.168.172.228"
+},
+{
+  "hostname": "ats-edge-copi-1",
+  "ip": "192.168.174.164"
+},
+{
+  "hostname": "ats-edge-pmon-1",
+  "ip": "192.168.179.240"
+},
+{
+  "hostname": "ats-edge-temu-1",
+  "ip": "10.68.162.230"
+},
+{
+  "hostname": "ats-edge-temu-2",
+  "ip": "10.68.162.231"
+},
+{
+  "hostname": "ats-edge-vald-1",
+  "ip": "192.168.179.169"
+},
+{
+  "hostname": "ats-edge-osor-1",
+  "ip": "192.168.179.120"
+},
+{
+  "hostname": "ats-edge-curi-1",
+  "ip": "192.168.172.169"
+},
+{
+  "hostname": "ats-edge-vina-1",
+  "ip": "192.168.197.81"
+},
+{
+  "hostname": "ats-edge-vina-2",
+  "ip": "192.168.197.82"
+},
+{
+  "hostname": "ats-edge-vina-3",
+  "ip": "192.168.197.80"
+},
+{
+  "hostname": "ats-edge-lser-1",
+  "ip": "192.168.175.19"
+},
+{
+  "hostname": "ats-edge-lser-2",
+  "ip": "192.168.175.20"
+},
+{
+  "hostname": "ats-edge-anto-1",
+  "ip": "10.68.162.170"
+},
+{
+  "hostname": "ats-edge-anto-2",
+  "ip": "10.68.162.171"
+},
+{
+  "hostname": "ats-edge-anto-3",
+  "ip": "10.68.162.174"
+},
+{
+  "hostname": "ats-edge-chil-1",
+  "ip": "192.168.173.91"
+},
+{
+  "hostname": "ats-edge-chil-2",
+  "ip": "192.168.173.92"
+},
+{
+  "hostname": "ats-edge-chil-3",
+  "ip": "192.168.173.93"
+},
+{
+  "hostname": "ats-edge-chil-4",
+  "ip": "192.168.173.94"
+},
+{
+  "hostname": "ats-edge-lcon-1",
+  "ip": "192.168.175.217"
+},
+{
+  "hostname": "ats-edge-lcon-2",
+  "ip": "192.168.175.218"
+},
+{
+  "hostname": "ats-edge-lcon-3",
+  "ip": "192.168.175.219"
+},
+{
+  "hostname": "ats-edge-lcon-4",
+  "ip": "192.168.175.220"
+},
+{
+  "hostname": "ats-edge-lcon-5",
+  "ip": "192.168.188.213"
+},
+{
+  "hostname": "ats-edge-lcon-6",
+  "ip": "192.168.188.214"
+},
+{
+  "hostname": "ats-edge-lang-1",
+  "ip": "192.168.173.101"
+},
+{
+  "hostname": "ats-edge-lang-2",
+  "ip": "192.168.173.102"
+},
+{
+  "hostname": "ats-edge-inde-1",
+  "ip": "10.68.250.16"
+},
+{
+  "hostname": "ats-edge-inde-2",
+  "ip": "10.68.250.18"
+},
+{
+  "hostname": "ats-edge-inde-3",
+  "ip": "10.68.250.24"
+},
+{
+  "hostname": "ats-edge-inde-4",
+  "ip": "10.68.250.26"
+},
+{
+  "hostname": "ats-edge-inde-5",
+  "ip": "10.68.250.28"
+},
+{
+  "hostname": "ats-edge-inde-6",
+  "ip": "10.68.250.30"
+},
+{
+  "hostname": "ats-edge-inde-7",
+  "ip": "10.68.171.117"
+},
+{
+  "hostname": "ats-edge-inde-8",
+  "ip": "10.68.171.118"
+},
+{
+  "hostname": "ats-edge-inde-9",
+  "ip": "10.68.171.119"
+},
+{
+  "hostname": "ats-edge-inde-10",
+  "ip": "10.68.171.120"
+},
+{
+  "hostname": "ats-edge-inde-11",
+  "ip": "10.68.171.121"
+},
+{
+  "hostname": "ats-edge-laci-1",
+  "ip": "10.68.122.180"
+},
+{
+  "hostname": "ats-edge-laci-2",
+  "ip": "10.68.122.181"
+},
+{
+  "hostname": "ats-edge-maip-1",
+  "ip": "10.68.122.172"
+},
+{
+  "hostname": "ats-edge-maip-2",
+  "ip": "10.68.122.173"
+},
+{
+  "hostname": "ats-edge-iqui-1",
+  "ip": "192.168.174.201"
+},
+{
+  "hostname": "ats-edge-land-1",
+  "ip": "192.168.185.210"
+}
+]
