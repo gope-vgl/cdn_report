@@ -1,8 +1,10 @@
 import json
 import requests
 import socket
+from logger_setup import setup_logger
 from requests.exceptions import Timeout
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
+
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
@@ -26,10 +28,10 @@ except json.JSONDecodeError:
     print('Invalid JSON Format')
 
 for host in hosts:
-    url = f'https://{host['ip']}/json/health_summary?'
+    url = f'https://{host["ip"]}/json/health_summary?'
     username = 'admin'
     password = 'cl4r0vtr'
-    print(f'\033[36mAnalyzing host: {host['hostname']}, ilo ip:{host['ip']}\033[0m')
+    print(f'\033[36mAnalyzing host: {host["hostname"]}, ilo ip:{host["ip"]}\033[0m')
     try:
         response = requests.get(url, auth=(username, password), verify=False, timeout=5).json()
         keys = ['self_test', 'system_health', 'hostpwr_state', 'fans_status', 'fans_redundancy', 'temperature_status', 'power_supplies_status', 'power_supplies_redundancy', 'power_supplies_mismatch', 'storage_status', 'nic_status', 'cpu_status', 'mem_status', 'ext_hlth_status']
@@ -41,4 +43,4 @@ for host in hosts:
                 else:
                     print(f'\033[91m{key}: {value} --> FAILED\033[0m')
     except Timeout:
-        print(f'\033[91mHost: {host['hostname']}, ilo ip:{host['ip']} request timed out\033[0m')
+        print(f'\033[91mHost: {host["hostname"]}, ilo ip:{host["ip"]} request timed out\033[0m')
