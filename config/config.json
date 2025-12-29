@@ -1,0 +1,4 @@
+{
+  "hosts_file": "data/hosts.json",
+  "output_file": "output/report.log"
+}

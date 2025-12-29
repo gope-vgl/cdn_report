@@ -1,7 +1,7 @@
 import socket
-from .logger_setup import setup_logger
+from logger import logger_setup
 
-logger = setup_logger('cdn_report', 'cdn_report.log')
+logger = logger_setup('cdn_report', 'cdn_report.log')
 
 def check_dns(host: str, port=53, timeout=5) -> bool:
     try:
