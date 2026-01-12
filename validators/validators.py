@@ -18,4 +18,5 @@ VALID_MAP = {
 def validate_key(key: str, value):
     if key not in VALID_MAP:
         return None
-    return value
+    else:
+        return value in VALID_MAP[key]    
