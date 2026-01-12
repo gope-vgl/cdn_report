@@ -1,0 +1,2486 @@
+[2026-01-12 15:26:00] [ERROR] JSON file not found in config/configg.json
+[2026-01-12 15:26:08] [ERROR] JSON file not found in config/configg.json
+[2026-01-12 15:28:01] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:28:03] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:28:04] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:34:51] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:36:50] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:37:49] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:38:59] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:38:59] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 15:38:59] [DEBUG] output_file: output/report.log
+[2026-01-12 15:42:40] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:42:40] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 15:42:40] [DEBUG] output_file: output/report.log
+[2026-01-12 15:42:40] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 15:44:03] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:44:03] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 15:44:03] [DEBUG] output_file: output/report.log
+[2026-01-12 15:44:03] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 15:44:03] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 15:44:03] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 15:44:03] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 15:44:46] [ERROR] JSON file not found in config/configg.json
+[2026-01-12 15:45:00] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:45:00] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 15:45:00] [DEBUG] output_file: output/report.log
+[2026-01-12 15:45:00] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 15:45:00] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 15:45:00] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 15:45:00] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 15:50:27] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:50:27] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 15:50:27] [DEBUG] output_file: output/report.log
+[2026-01-12 15:50:27] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 15:50:27] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 15:50:27] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 15:50:27] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 15:50:32] [ERROR] Connection timed out, please connect to VPN
+[2026-01-12 15:50:47] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:50:47] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 15:50:47] [DEBUG] output_file: output/report.log
+[2026-01-12 15:50:47] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 15:50:47] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 15:50:47] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 15:50:47] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 15:50:53] [ERROR] Connection timed out, please connect to VPN
+[2026-01-12 15:51:59] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 15:51:59] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 15:51:59] [DEBUG] output_file: output/report.log
+[2026-01-12 15:51:59] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 15:51:59] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 15:51:59] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 15:51:59] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 15:51:59] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:00:31] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:00:31] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:00:31] [DEBUG] output_file: output/report.log
+[2026-01-12 16:00:31] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:00:31] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:00:31] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:00:31] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:00:31] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:00:31] [DEBUG] Got username: admin
+[2026-01-12 16:00:31] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:01:31] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:01:31] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:01:31] [DEBUG] output_file: output/report.log
+[2026-01-12 16:01:31] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:01:31] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:01:31] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:01:31] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:01:31] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:01:31] [DEBUG] Got username: admin
+[2026-01-12 16:01:31] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:01:31] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xe0b345f614f0>
+[2026-01-12 16:06:39] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:06:39] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:06:39] [DEBUG] output_file: output/report.log
+[2026-01-12 16:06:39] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:06:39] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:06:39] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:06:39] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:06:39] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:06:39] [DEBUG] Got username: admin
+[2026-01-12 16:06:39] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:06:39] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xf1eb56425190>
+[2026-01-12 16:07:38] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:07:38] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:07:38] [DEBUG] output_file: output/report.log
+[2026-01-12 16:07:38] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:07:38] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:07:38] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:07:38] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:07:38] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:07:38] [DEBUG] Got username: admin
+[2026-01-12 16:07:38] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:07:38] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xe31c5b5d5070>
+[2026-01-12 16:07:38] [INFO] Analyzing host atc-host-1 (10.68.253.41)
+[2026-01-12 16:13:14] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:13:14] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:13:14] [DEBUG] output_file: output/report.log
+[2026-01-12 16:13:14] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:13:14] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:13:14] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:13:14] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:13:14] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:13:14] [DEBUG] Got username: admin
+[2026-01-12 16:13:14] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:13:14] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xf468fabde0f0>
+[2026-01-12 16:13:14] [INFO] Analyzing host atc-host-1 (10.68.253.41)
+[2026-01-12 16:19:23] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:19:23] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:19:23] [DEBUG] output_file: output/report.log
+[2026-01-12 16:19:23] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:19:23] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:19:23] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:19:23] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:19:23] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:19:23] [DEBUG] Got username: admin
+[2026-01-12 16:19:23] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:19:23] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xed890ce7e3f0>
+[2026-01-12 16:19:23] [INFO] Analyzing host atc-host-1 (10.68.253.41)
+[2026-01-12 16:19:39] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:19:39] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:19:39] [DEBUG] output_file: output/report.log
+[2026-01-12 16:19:39] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:19:39] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:19:39] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:19:39] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:19:39] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:19:39] [DEBUG] Got username: admin
+[2026-01-12 16:19:39] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:19:39] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xf0396543cce0>
+[2026-01-12 16:19:39] [INFO] Analyzing host atc-host-1 (10.68.253.41)
+[2026-01-12 16:19:40] [ERROR] 10.68.253.41 --> HTTP 403
+[2026-01-12 16:19:40] [ERROR] Failed to read health summary from atc-host-1
+[2026-01-12 16:23:26] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:23:26] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:23:26] [DEBUG] output_file: output/report.log
+[2026-01-12 16:23:26] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:23:26] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:23:26] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:23:26] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:23:27] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:23:27] [DEBUG] Got username: admin
+[2026-01-12 16:23:27] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:23:27] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xe2335fc9cce0>
+[2026-01-12 16:23:27] [INFO] Analyzing host atc-host-1 (10.68.253.41)
+[2026-01-12 16:23:27] [ERROR] 10.68.253.41 --> HTTP 403
+[2026-01-12 16:23:27] [ERROR] Failed to read health summary from atc-host-1
+[2026-01-12 16:23:27] [INFO] Analyzing host atc-host-2 (10.68.253.42)
+[2026-01-12 16:23:28] [ERROR] 10.68.253.42 --> HTTP 403
+[2026-01-12 16:23:28] [ERROR] Failed to read health summary from atc-host-2
+[2026-01-12 16:23:28] [INFO] Analyzing host ats-edge-ra-1 (192.168.175.45)
+[2026-01-12 16:25:38] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:25:38] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:25:38] [DEBUG] output_file: output/report.log
+[2026-01-12 16:25:38] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:25:38] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:25:38] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:25:38] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:25:38] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:25:38] [DEBUG] Got username: admin
+[2026-01-12 16:25:38] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:25:38] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xe65cdd7a3470>
+[2026-01-12 16:25:38] [INFO] Analyzing host atc-host-1 (10.68.253.41)
+[2026-01-12 16:25:39] [ERROR] 10.68.253.41 --> HTTP 403
+[2026-01-12 16:25:39] [ERROR] Failed to read health summary from atc-host-1
+[2026-01-12 16:25:39] [INFO] Analyzing host atc-host-2 (10.68.253.42)
+[2026-01-12 16:25:39] [ERROR] 10.68.253.42 --> HTTP 403
+[2026-01-12 16:25:39] [ERROR] Failed to read health summary from atc-host-2
+[2026-01-12 16:25:39] [INFO] Analyzing host ats-edge-ra-1 (192.168.175.45)
+[2026-01-12 16:26:06] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:26:06] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:26:06] [DEBUG] output_file: output/report.log
+[2026-01-12 16:26:06] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:26:06] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:26:06] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:26:06] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:26:06] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:26:06] [DEBUG] Got username: admin
+[2026-01-12 16:26:06] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:26:06] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xea9bc2fd7c80>
+[2026-01-12 16:26:06] [INFO] Analyzing host atc-host-1 (10.68.253.41)
+[2026-01-12 16:26:07] [ERROR] 10.68.253.41 --> HTTP 403
+[2026-01-12 16:26:07] [ERROR] Failed to read health summary from atc-host-1
+[2026-01-12 16:26:07] [INFO] Analyzing host atc-host-2 (10.68.253.42)
+[2026-01-12 16:26:08] [ERROR] 10.68.253.42 --> HTTP 403
+[2026-01-12 16:26:08] [ERROR] Failed to read health summary from atc-host-2
+[2026-01-12 16:26:08] [INFO] Analyzing host ats-edge-ra-1 (192.168.175.45)
+[2026-01-12 16:26:08] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:08] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:08] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:08] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:08] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:08] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:08] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:08] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:08] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:08] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:08] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:08] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:08] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:08] [INFO] Analyzing host ats-edge-ra-2 (192.168.175.49)
+[2026-01-12 16:26:09] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:09] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:09] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:09] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:09] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:09] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:09] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:09] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:09] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:09] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:09] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:09] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:09] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:09] [INFO] Analyzing host ats-edge-co-1 (10.68.176.202)
+[2026-01-12 16:26:10] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:10] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:10] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:10] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:10] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] Analyzing host ats-edge-co-2 (10.68.176.201)
+[2026-01-12 16:26:10] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:10] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:10] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:10] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:10] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:10] [INFO] Analyzing host ats-edge-co-3 (10.68.176.203)
+[2026-01-12 16:26:11] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:11] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:11] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:11] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:11] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:11] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:11] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:11] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:11] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:11] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:11] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:11] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:11] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:11] [INFO] Analyzing host ats-edge-co-4 (10.68.176.204)
+[2026-01-12 16:26:12] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:12] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:12] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:12] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:12] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] Analyzing host ats-edge-qota-1 (10.68.212.82)
+[2026-01-12 16:26:12] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:12] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:12] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:12] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:12] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:12] [INFO] Analyzing host ats-edge-qota-2 (10.68.212.83)
+[2026-01-12 16:26:13] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:13] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:13] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:13] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:13] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:13] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:13] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:13] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:13] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:13] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:13] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:13] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:13] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:13] [INFO] Analyzing host ats-edge-talc-1 (192.168.172.228)
+[2026-01-12 16:26:14] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:14] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:14] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:14] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:14] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] Analyzing host ats-edge-copi-1 (192.168.174.164)
+[2026-01-12 16:26:14] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:14] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:14] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:14] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:14] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:14] [INFO] Analyzing host ats-edge-pmon-1 (192.168.179.240)
+[2026-01-12 16:26:15] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:15] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:15] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:15] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:15] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:15] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:15] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:15] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:15] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:15] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:15] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:15] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:15] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:15] [INFO] Analyzing host ats-edge-temu-1 (10.68.162.230)
+[2026-01-12 16:26:16] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:16] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:16] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:16] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:16] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] Analyzing host ats-edge-temu-2 (10.68.162.231)
+[2026-01-12 16:26:16] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:16] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:16] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:16] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:16] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:16] [INFO] Analyzing host ats-edge-vald-1 (192.168.179.169)
+[2026-01-12 16:26:21] [ERROR] 192.168.179.169 --> Request timed out
+[2026-01-12 16:26:21] [ERROR] Failed to read health summary from ats-edge-vald-1
+[2026-01-12 16:26:21] [INFO] Analyzing host ats-edge-osor-1 (192.168.179.120)
+[2026-01-12 16:26:22] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:22] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:22] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:22] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:22] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:22] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:22] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:22] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:22] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:22] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:22] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:22] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:22] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:22] [INFO] Analyzing host ats-edge-curi-1 (192.168.172.169)
+[2026-01-12 16:26:23] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:23] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:23] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:23] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:23] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] Analyzing host ats-edge-vina-1 (192.168.197.81)
+[2026-01-12 16:26:23] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:23] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:23] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:23] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:23] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:23] [INFO] Analyzing host ats-edge-vina-2 (192.168.197.82)
+[2026-01-12 16:26:24] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:24] [INFO] system_health: OP_STATUS_DEGRADED --> PASS
+[2026-01-12 16:26:24] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:24] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:24] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:24] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:24] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:24] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:24] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:24] [INFO] storage_status: OP_STATUS_DEGRADED --> PASS
+[2026-01-12 16:26:24] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:24] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:24] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:24] [INFO] Analyzing host ats-edge-vina-3 (192.168.197.80)
+[2026-01-12 16:26:25] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:25] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:25] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:25] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:25] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] Analyzing host ats-edge-lser-1 (192.168.175.19)
+[2026-01-12 16:26:25] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:25] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:25] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:25] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:25] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:25] [INFO] Analyzing host ats-edge-lser-2 (192.168.175.20)
+[2026-01-12 16:26:26] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:26] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:26] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:26] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:26] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:26] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:26] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:26] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:26] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:26] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:26] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:26] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:26] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:26] [INFO] Analyzing host ats-edge-anto-1 (10.68.162.170)
+[2026-01-12 16:26:27] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:27] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:27] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:27] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:27] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:27] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:27] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:27] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:27] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:27] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:27] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:27] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:27] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:27] [INFO] Analyzing host ats-edge-anto-2 (10.68.162.171)
+[2026-01-12 16:26:28] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:28] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:28] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:28] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:28] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] Analyzing host ats-edge-anto-3 (10.68.162.174)
+[2026-01-12 16:26:28] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:28] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:28] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:28] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:28] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:28] [INFO] Analyzing host ats-edge-chil-1 (192.168.173.91)
+[2026-01-12 16:26:29] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:29] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:29] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:29] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:29] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] Analyzing host ats-edge-chil-2 (192.168.173.92)
+[2026-01-12 16:26:29] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:29] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:29] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:29] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:29] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:29] [INFO] Analyzing host ats-edge-chil-3 (192.168.173.93)
+[2026-01-12 16:26:30] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:30] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:30] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:30] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:30] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:30] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:30] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:30] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:30] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:30] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:30] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:30] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:30] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:30] [INFO] Analyzing host ats-edge-chil-4 (192.168.173.94)
+[2026-01-12 16:26:31] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:31] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:31] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:31] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:31] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] Analyzing host ats-edge-lcon-1 (192.168.175.217)
+[2026-01-12 16:26:31] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:31] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:31] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:31] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:31] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:31] [INFO] Analyzing host ats-edge-lcon-2 (192.168.175.218)
+[2026-01-12 16:26:32] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:32] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:32] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:32] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:32] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] Analyzing host ats-edge-lcon-3 (192.168.175.219)
+[2026-01-12 16:26:32] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:32] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:32] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:32] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:32] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:32] [INFO] Analyzing host ats-edge-lcon-4 (192.168.175.220)
+[2026-01-12 16:26:33] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:33] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:33] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:33] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:33] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:33] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:33] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:33] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:33] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:33] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:33] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:33] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:33] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:33] [INFO] Analyzing host ats-edge-lcon-5 (192.168.188.213)
+[2026-01-12 16:26:34] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:34] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:34] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:34] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:34] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:34] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:34] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:34] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:34] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:34] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:34] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:34] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:34] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:34] [INFO] Analyzing host ats-edge-lcon-6 (192.168.188.214)
+[2026-01-12 16:26:35] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:35] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:35] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:35] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:35] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] Analyzing host ats-edge-lang-1 (192.168.173.101)
+[2026-01-12 16:26:35] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:35] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:35] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:35] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:35] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:35] [INFO] Analyzing host ats-edge-lang-2 (192.168.173.102)
+[2026-01-12 16:26:36] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:36] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:36] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:36] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:36] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:36] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:36] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:36] [INFO] power_supplies_redundancy: NOT_APPLICABLE --> PASS
+[2026-01-12 16:26:36] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:36] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:36] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:36] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:36] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:36] [INFO] Analyzing host ats-edge-inde-1 (10.68.250.16)
+[2026-01-12 16:26:37] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:37] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:37] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:37] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:37] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] Analyzing host ats-edge-inde-2 (10.68.250.18)
+[2026-01-12 16:26:37] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:37] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:37] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:37] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:37] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:37] [INFO] Analyzing host ats-edge-inde-3 (10.68.250.24)
+[2026-01-12 16:26:38] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:38] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:38] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:38] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:38] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] Analyzing host ats-edge-inde-4 (10.68.250.26)
+[2026-01-12 16:26:38] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:38] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:38] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:38] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:38] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:38] [INFO] Analyzing host ats-edge-inde-5 (10.68.250.28)
+[2026-01-12 16:26:39] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:39] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:39] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:39] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:39] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:39] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:39] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:39] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:39] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:39] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:39] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:39] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:39] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:39] [INFO] Analyzing host ats-edge-inde-6 (10.68.250.30)
+[2026-01-12 16:26:40] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:40] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:40] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:40] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:40] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] Analyzing host ats-edge-inde-7 (10.68.171.117)
+[2026-01-12 16:26:40] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] system_health: OP_STATUS_DEGRADED --> PASS
+[2026-01-12 16:26:40] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:40] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:40] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:40] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:40] [INFO] storage_status: OP_STATUS_DEGRADED --> PASS
+[2026-01-12 16:26:40] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:40] [INFO] Analyzing host ats-edge-inde-8 (10.68.171.118)
+[2026-01-12 16:26:41] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:41] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:41] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:41] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:41] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:41] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:41] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:41] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:41] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:41] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:41] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:41] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:41] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:41] [INFO] Analyzing host ats-edge-inde-9 (10.68.171.119)
+[2026-01-12 16:26:42] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:42] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:42] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:42] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:42] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] Analyzing host ats-edge-inde-10 (10.68.171.120)
+[2026-01-12 16:26:42] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:42] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:42] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:42] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:42] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:42] [INFO] Analyzing host ats-edge-inde-11 (10.68.171.121)
+[2026-01-12 16:26:43] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:43] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:43] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:43] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:43] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] Analyzing host ats-edge-laci-1 (10.68.122.180)
+[2026-01-12 16:26:43] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:43] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:43] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:43] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:43] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:43] [INFO] Analyzing host ats-edge-laci-2 (10.68.122.181)
+[2026-01-12 16:26:44] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:44] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:44] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:44] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:44] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:44] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:44] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:44] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:44] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:44] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:44] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:44] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:44] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:44] [INFO] Analyzing host ats-edge-maip-1 (10.68.122.172)
+[2026-01-12 16:26:45] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:45] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:45] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:45] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:45] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] Analyzing host ats-edge-maip-2 (10.68.122.173)
+[2026-01-12 16:26:45] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:45] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:45] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:45] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:45] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:45] [INFO] Analyzing host ats-edge-iqui-1 (192.168.174.201)
+[2026-01-12 16:26:46] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:46] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:46] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:46] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:46] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] Analyzing host ats-edge-land-1 (192.168.185.210)
+[2026-01-12 16:26:46] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:26:46] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:46] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:26:46] [INFO] power_supplies_mismatch: 0 --> PASS
+[2026-01-12 16:26:46] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:26:46] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:00] [DEBUG] Loading JSON file: config/config.json
+[2026-01-12 16:28:00] [DEBUG] hosts_file: data/hosts.json
+[2026-01-12 16:28:00] [DEBUG] output_file: output/report.log
+[2026-01-12 16:28:00] [DEBUG] Loading JSON file: data/hosts.json
+[2026-01-12 16:28:00] [DEBUG] Found atc-host-1: 10.68.253.41
+[2026-01-12 16:28:00] [DEBUG] Found atc-host-2: 10.68.253.42
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-ra-1: 192.168.175.45
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-ra-2: 192.168.175.49
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-co-1: 10.68.176.202
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-co-2: 10.68.176.201
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-co-3: 10.68.176.203
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-co-4: 10.68.176.204
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-qota-1: 10.68.212.82
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-qota-2: 10.68.212.83
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-talc-1: 192.168.172.228
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-copi-1: 192.168.174.164
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-pmon-1: 192.168.179.240
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-temu-1: 10.68.162.230
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-temu-2: 10.68.162.231
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-vald-1: 192.168.179.169
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-osor-1: 192.168.179.120
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-curi-1: 192.168.172.169
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-vina-1: 192.168.197.81
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-vina-2: 192.168.197.82
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-vina-3: 192.168.197.80
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-lser-1: 192.168.175.19
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-lser-2: 192.168.175.20
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-anto-1: 10.68.162.170
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-anto-2: 10.68.162.171
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-anto-3: 10.68.162.174
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-chil-1: 192.168.173.91
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-chil-2: 192.168.173.92
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-chil-3: 192.168.173.93
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-chil-4: 192.168.173.94
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-lcon-1: 192.168.175.217
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-lcon-2: 192.168.175.218
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-lcon-3: 192.168.175.219
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-lcon-4: 192.168.175.220
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-lcon-5: 192.168.188.213
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-lcon-6: 192.168.188.214
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-lang-1: 192.168.173.101
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-lang-2: 192.168.173.102
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-1: 10.68.250.16
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-2: 10.68.250.18
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-3: 10.68.250.24
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-4: 10.68.250.26
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-5: 10.68.250.28
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-6: 10.68.250.30
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-7: 10.68.171.117
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-8: 10.68.171.118
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-9: 10.68.171.119
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-10: 10.68.171.120
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-inde-11: 10.68.171.121
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-laci-1: 10.68.122.180
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-laci-2: 10.68.122.181
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-maip-1: 10.68.122.172
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
+[2026-01-12 16:28:00] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-12 16:28:00] [INFO] VPN/TCP DNS OK - connected to 172.17.169.41:53
+[2026-01-12 16:28:00] [DEBUG] Got username: admin
+[2026-01-12 16:28:00] [DEBUG] Got password: cl4r0vtr
+[2026-01-12 16:28:00] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xe70e26363470>
+[2026-01-12 16:28:00] [INFO] Analyzing host atc-host-1 (10.68.253.41)
+[2026-01-12 16:28:01] [ERROR] 10.68.253.41 --> HTTP 403
+[2026-01-12 16:28:01] [ERROR] Failed to read health summary from atc-host-1
+[2026-01-12 16:28:01] [INFO] Analyzing host atc-host-2 (10.68.253.42)
+[2026-01-12 16:28:01] [ERROR] 10.68.253.42 --> HTTP 403
+[2026-01-12 16:28:01] [ERROR] Failed to read health summary from atc-host-2
+[2026-01-12 16:28:01] [INFO] Analyzing host ats-edge-ra-1 (192.168.175.45)
+[2026-01-12 16:28:02] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:02] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:02] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:02] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:02] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] Analyzing host ats-edge-ra-2 (192.168.175.49)
+[2026-01-12 16:28:02] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:02] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:02] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:02] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:02] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:02] [INFO] Analyzing host ats-edge-co-1 (10.68.176.202)
+[2026-01-12 16:28:03] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:03] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:03] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:03] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:03] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:03] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:03] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:03] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:03] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:03] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:03] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:03] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:03] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:03] [INFO] Analyzing host ats-edge-co-2 (10.68.176.201)
+[2026-01-12 16:28:04] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:04] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:04] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:04] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:04] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] Analyzing host ats-edge-co-3 (10.68.176.203)
+[2026-01-12 16:28:04] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:04] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:04] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:04] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:04] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:04] [INFO] Analyzing host ats-edge-co-4 (10.68.176.204)
+[2026-01-12 16:28:05] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:05] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:05] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:05] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:05] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:05] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:05] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:05] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:05] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:05] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:05] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:05] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:05] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:05] [INFO] Analyzing host ats-edge-qota-1 (10.68.212.82)
+[2026-01-12 16:28:06] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:06] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:06] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:06] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:06] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] Analyzing host ats-edge-qota-2 (10.68.212.83)
+[2026-01-12 16:28:06] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:06] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:06] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:06] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:06] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:06] [INFO] Analyzing host ats-edge-talc-1 (192.168.172.228)
+[2026-01-12 16:28:07] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:07] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:07] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:07] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:07] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] Analyzing host ats-edge-copi-1 (192.168.174.164)
+[2026-01-12 16:28:07] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:07] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:07] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:07] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:07] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:07] [INFO] Analyzing host ats-edge-pmon-1 (192.168.179.240)
+[2026-01-12 16:28:08] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:08] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:08] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:08] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:08] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:08] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:08] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:08] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:08] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:08] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:08] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:08] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:08] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:08] [INFO] Analyzing host ats-edge-temu-1 (10.68.162.230)
+[2026-01-12 16:28:09] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:09] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:09] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:09] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:09] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] Analyzing host ats-edge-temu-2 (10.68.162.231)
+[2026-01-12 16:28:09] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:09] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:09] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:09] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:09] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:09] [INFO] Analyzing host ats-edge-vald-1 (192.168.179.169)
+[2026-01-12 16:28:14] [ERROR] 192.168.179.169 --> Request timed out
+[2026-01-12 16:28:14] [ERROR] Failed to read health summary from ats-edge-vald-1
+[2026-01-12 16:28:14] [INFO] Analyzing host ats-edge-osor-1 (192.168.179.120)
+[2026-01-12 16:28:15] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:15] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:15] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:15] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:15] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:15] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:15] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:15] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:15] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:15] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:15] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:15] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:15] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:15] [INFO] Analyzing host ats-edge-curi-1 (192.168.172.169)
+[2026-01-12 16:28:16] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:16] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:16] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:16] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:16] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] Analyzing host ats-edge-vina-1 (192.168.197.81)
+[2026-01-12 16:28:16] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:16] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:16] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:16] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:16] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:16] [INFO] Analyzing host ats-edge-vina-2 (192.168.197.82)
+[2026-01-12 16:28:17] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:17] [INFO] system_health: OP_STATUS_DEGRADED --> PASS
+[2026-01-12 16:28:17] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:17] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:17] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:17] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:17] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:17] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:17] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:17] [INFO] storage_status: OP_STATUS_DEGRADED --> PASS
+[2026-01-12 16:28:17] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:17] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:17] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:17] [INFO] Analyzing host ats-edge-vina-3 (192.168.197.80)
+[2026-01-12 16:28:18] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:18] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:18] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:18] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:18] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] Analyzing host ats-edge-lser-1 (192.168.175.19)
+[2026-01-12 16:28:18] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:18] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:18] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:18] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:18] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:18] [INFO] Analyzing host ats-edge-lser-2 (192.168.175.20)
+[2026-01-12 16:28:19] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:19] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:19] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:19] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:19] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:19] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:19] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:19] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:19] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:19] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:19] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:19] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:19] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:19] [INFO] Analyzing host ats-edge-anto-1 (10.68.162.170)
+[2026-01-12 16:28:20] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:20] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:20] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:20] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:20] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:20] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:20] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:20] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:20] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:20] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:20] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:20] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:20] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:20] [INFO] Analyzing host ats-edge-anto-2 (10.68.162.171)
+[2026-01-12 16:28:21] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:21] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:21] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:21] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:21] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] Analyzing host ats-edge-anto-3 (10.68.162.174)
+[2026-01-12 16:28:21] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:21] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:21] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:21] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:21] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:21] [INFO] Analyzing host ats-edge-chil-1 (192.168.173.91)
+[2026-01-12 16:28:22] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:22] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:22] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:22] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:22] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] Analyzing host ats-edge-chil-2 (192.168.173.92)
+[2026-01-12 16:28:22] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:22] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:22] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:22] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:22] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:22] [INFO] Analyzing host ats-edge-chil-3 (192.168.173.93)
+[2026-01-12 16:28:23] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:23] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:23] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:23] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:23] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:23] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:23] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:23] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:23] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:23] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:23] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:23] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:23] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:23] [INFO] Analyzing host ats-edge-chil-4 (192.168.173.94)
+[2026-01-12 16:28:24] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:24] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:24] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:24] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:24] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] Analyzing host ats-edge-lcon-1 (192.168.175.217)
+[2026-01-12 16:28:24] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:24] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:24] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:24] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:24] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] Analyzing host ats-edge-lcon-2 (192.168.175.218)
+[2026-01-12 16:28:24] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:24] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:24] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:24] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:24] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:24] [INFO] Analyzing host ats-edge-lcon-3 (192.168.175.219)
+[2026-01-12 16:28:25] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:25] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:25] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:25] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:25] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:25] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:25] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:25] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:25] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:25] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:25] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:25] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:25] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:25] [INFO] Analyzing host ats-edge-lcon-4 (192.168.175.220)
+[2026-01-12 16:28:26] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:26] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:26] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:26] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:26] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:26] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:26] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:26] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:26] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:26] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:26] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:26] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:26] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:26] [INFO] Analyzing host ats-edge-lcon-5 (192.168.188.213)
+[2026-01-12 16:28:27] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:27] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:27] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:27] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:27] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] Analyzing host ats-edge-lcon-6 (192.168.188.214)
+[2026-01-12 16:28:27] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:27] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:27] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:27] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:27] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:27] [INFO] Analyzing host ats-edge-lang-1 (192.168.173.101)
+[2026-01-12 16:28:28] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:28] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:28] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:28] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:28] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:28] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:28] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:28] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:28] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:28] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:28] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:28] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:28] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:28] [INFO] Analyzing host ats-edge-lang-2 (192.168.173.102)
+[2026-01-12 16:28:29] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:29] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:29] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:29] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:29] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:29] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:29] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:29] [INFO] power_supplies_redundancy: NOT_APPLICABLE --> PASS
+[2026-01-12 16:28:29] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:29] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:29] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:29] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:29] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:29] [INFO] Analyzing host ats-edge-inde-1 (10.68.250.16)
+[2026-01-12 16:28:30] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:30] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:30] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:30] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:30] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] Analyzing host ats-edge-inde-2 (10.68.250.18)
+[2026-01-12 16:28:30] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:30] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:30] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:30] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:30] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:30] [INFO] Analyzing host ats-edge-inde-3 (10.68.250.24)
+[2026-01-12 16:28:31] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:31] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:31] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:31] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:31] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] Analyzing host ats-edge-inde-4 (10.68.250.26)
+[2026-01-12 16:28:31] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:31] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:31] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:31] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:31] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:31] [INFO] Analyzing host ats-edge-inde-5 (10.68.250.28)
+[2026-01-12 16:28:32] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:32] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:32] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:32] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:32] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:32] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:32] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:32] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:32] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:32] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:32] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:32] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:32] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:32] [INFO] Analyzing host ats-edge-inde-6 (10.68.250.30)
+[2026-01-12 16:28:33] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:33] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:33] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:33] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:33] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] Analyzing host ats-edge-inde-7 (10.68.171.117)
+[2026-01-12 16:28:33] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] system_health: OP_STATUS_DEGRADED --> PASS
+[2026-01-12 16:28:33] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:33] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:33] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:33] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:33] [INFO] storage_status: OP_STATUS_DEGRADED --> PASS
+[2026-01-12 16:28:33] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:33] [INFO] Analyzing host ats-edge-inde-8 (10.68.171.118)
+[2026-01-12 16:28:34] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:34] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:34] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:34] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:34] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] Analyzing host ats-edge-inde-9 (10.68.171.119)
+[2026-01-12 16:28:34] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:34] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:34] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:34] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:34] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:34] [INFO] Analyzing host ats-edge-inde-10 (10.68.171.120)
+[2026-01-12 16:28:35] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:35] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:35] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:35] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:35] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] Analyzing host ats-edge-inde-11 (10.68.171.121)
+[2026-01-12 16:28:35] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:35] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:35] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:35] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:35] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:35] [INFO] Analyzing host ats-edge-laci-1 (10.68.122.180)
+[2026-01-12 16:28:36] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:36] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:36] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:36] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:36] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:36] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:36] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:36] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:36] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:36] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:36] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:36] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:36] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:36] [INFO] Analyzing host ats-edge-laci-2 (10.68.122.181)
+[2026-01-12 16:28:37] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:37] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:37] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:37] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:37] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] Analyzing host ats-edge-maip-1 (10.68.122.172)
+[2026-01-12 16:28:37] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:37] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:37] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:37] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:37] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:37] [INFO] Analyzing host ats-edge-maip-2 (10.68.122.173)
+[2026-01-12 16:28:38] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:38] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:38] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:38] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:38] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:38] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:38] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:38] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:38] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:38] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:38] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:38] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:38] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:38] [INFO] Analyzing host ats-edge-iqui-1 (192.168.174.201)
+[2026-01-12 16:28:39] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:39] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:39] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:39] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:39] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:39] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:39] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:39] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:39] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:39] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:39] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:39] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:39] [INFO] mem_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:39] [INFO] Analyzing host ats-edge-land-1 (192.168.185.210)
+[2026-01-12 16:28:40] [INFO] self_test: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:40] [INFO] system_health: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:40] [INFO] hostpwr_state: ON --> PASS
+[2026-01-12 16:28:40] [INFO] fans_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:40] [INFO] fans_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:40] [INFO] temperature_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:40] [INFO] power_supplies_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:40] [INFO] power_supplies_redundancy: REDUNDANT --> PASS
+[2026-01-12 16:28:40] [ERROR] power_supplies_mismatch: 0 --> FAILED
+[2026-01-12 16:28:40] [INFO] storage_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:40] [INFO] nic_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:40] [INFO] cpu_status: OP_STATUS_OK --> PASS
+[2026-01-12 16:28:40] [INFO] mem_status: OP_STATUS_OK --> PASS

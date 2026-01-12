@@ -1,5 +1,5 @@
 import socket
-from logger import logger_setup
+from logger.logger_setup import logger_setup
 
 logger = logger_setup('cdn_report', 'cdn_report.log')
 
