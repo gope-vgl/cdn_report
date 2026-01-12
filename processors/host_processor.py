@@ -7,7 +7,9 @@ logger = logger_setup("cdn_report", "cdn_report.log")
 def process_host(client, host: dict):
     hostname = host["hostname"]
     ip = host["ip"]
-    logger.info(f"Analyzing host {hostname} ({ip})")
+    logger.info(f'''------------------------------------------------------
+                            | Analyzing host: {hostname} with ip: {ip} |
+                            -------------------------------------------------------''')
     username = os.environ.get("username", "admin")
     password = os.environ.get("password", "cl4r0vtr")
     data = client.get_health_summary(ip, username, password)

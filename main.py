@@ -4,6 +4,9 @@ from utils.json_utils import json_load
 from utils.dns_check import check_dns
 from utils.ilo_client import IloClient
 from processors.host_processor import process_host
+import urllib3
+from urllib3.exceptions import InsecureRequestWarning
+urllib3.disable_warnings(InsecureRequestWarning)
 
 logger = logger_setup("cdn_report", "cdn_report.log")
 config = json_load('config/config.json')
