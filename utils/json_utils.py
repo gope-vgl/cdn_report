@@ -8,7 +8,9 @@ def json_load(path: str) -> Any:
     try:
         with open(path, encoding="utf-8") as file:
             logger.info(f"Loading JSON file from {path}")
-            return json.load(file)
+            json_file = json.load(file)
+            logger.debug(f"JSON loaded succesfully")
+            return json_file
     except FileNotFoundError as e:
         logger.error(f"JSON file not found in {path}: {e}")
         raise e

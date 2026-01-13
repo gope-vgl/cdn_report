@@ -12930,3 +12930,200 @@
 [2026-01-13 16:28:11] [DEBUG] Found ats-edge-maip-2: 10.68.122.173
 [2026-01-13 16:28:11] [DEBUG] Found ats-edge-iqui-1: 192.168.174.201
 [2026-01-13 16:28:11] [DEBUG] Found ats-edge-land-1: 192.168.185.210
+[2026-01-13 16:36:49] [INFO] Loading JSON file from config/config.json
+[2026-01-13 16:36:49] [DEBUG] Found hosts_file: data/hosts.json
+[2026-01-13 16:36:49] [DEBUG] Found output_file: output/report.log
+[2026-01-13 16:36:49] [INFO] Loading JSON file from data/hosts.json
+[2026-01-13 16:38:04] [INFO] Loading JSON file from config/config.json
+[2026-01-13 16:38:04] [DEBUG] {'hosts_file': 'data/hosts.json', 'output_file': 'output/report.log'}
+[2026-01-13 16:38:04] [INFO] Loading JSON file from data/hosts.json
+[2026-01-13 16:38:04] [DEBUG] [{'hostname': 'atc-host-1', 'ip': '10.68.253.41'}, {'hostname': 'atc-host-2', 'ip': '10.68.253.42'}, {'hostname': 'ats-edge-ra-1', 'ip': '192.168.175.45'}, {'hostname': 'ats-edge-ra-2', 'ip': '192.168.175.49'}, {'hostname': 'ats-edge-co-1', 'ip': '10.68.176.202'}, {'hostname': 'ats-edge-co-2', 'ip': '10.68.176.201'}, {'hostname': 'ats-edge-co-3', 'ip': '10.68.176.203'}, {'hostname': 'ats-edge-co-4', 'ip': '10.68.176.204'}, {'hostname': 'ats-edge-qota-1', 'ip': '10.68.212.82'}, {'hostname': 'ats-edge-qota-2', 'ip': '10.68.212.83'}, {'hostname': 'ats-edge-talc-1', 'ip': '192.168.172.228'}, {'hostname': 'ats-edge-copi-1', 'ip': '192.168.174.164'}, {'hostname': 'ats-edge-pmon-1', 'ip': '192.168.179.240'}, {'hostname': 'ats-edge-temu-1', 'ip': '10.68.162.230'}, {'hostname': 'ats-edge-temu-2', 'ip': '10.68.162.231'}, {'hostname': 'ats-edge-vald-1', 'ip': '192.168.179.169'}, {'hostname': 'ats-edge-osor-1', 'ip': '192.168.179.120'}, {'hostname': 'ats-edge-curi-1', 'ip': '192.168.172.169'}, {'hostname': 'ats-edge-vina-1', 'ip': '192.168.197.81'}, {'hostname': 'ats-edge-vina-2', 'ip': '192.168.197.82'}, {'hostname': 'ats-edge-vina-3', 'ip': '192.168.197.80'}, {'hostname': 'ats-edge-lser-1', 'ip': '192.168.175.19'}, {'hostname': 'ats-edge-lser-2', 'ip': '192.168.175.20'}, {'hostname': 'ats-edge-anto-1', 'ip': '10.68.162.170'}, {'hostname': 'ats-edge-anto-2', 'ip': '10.68.162.171'}, {'hostname': 'ats-edge-anto-3', 'ip': '10.68.162.174'}, {'hostname': 'ats-edge-chil-1', 'ip': '192.168.173.91'}, {'hostname': 'ats-edge-chil-2', 'ip': '192.168.173.92'}, {'hostname': 'ats-edge-chil-3', 'ip': '192.168.173.93'}, {'hostname': 'ats-edge-chil-4', 'ip': '192.168.173.94'}, {'hostname': 'ats-edge-lcon-1', 'ip': '192.168.175.217'}, {'hostname': 'ats-edge-lcon-2', 'ip': '192.168.175.218'}, {'hostname': 'ats-edge-lcon-3', 'ip': '192.168.175.219'}, {'hostname': 'ats-edge-lcon-4', 'ip': '192.168.175.220'}, {'hostname': 'ats-edge-lcon-5', 'ip': '192.168.188.213'}, {'hostname': 'ats-edge-lcon-6', 'ip': '192.168.188.214'}, {'hostname': 'ats-edge-lang-1', 'ip': '192.168.173.101'}, {'hostname': 'ats-edge-lang-2', 'ip': '192.168.173.102'}, {'hostname': 'ats-edge-inde-1', 'ip': '10.68.250.16'}, {'hostname': 'ats-edge-inde-2', 'ip': '10.68.250.18'}, {'hostname': 'ats-edge-inde-3', 'ip': '10.68.250.24'}, {'hostname': 'ats-edge-inde-4', 'ip': '10.68.250.26'}, {'hostname': 'ats-edge-inde-5', 'ip': '10.68.250.28'}, {'hostname': 'ats-edge-inde-6', 'ip': '10.68.250.30'}, {'hostname': 'ats-edge-inde-7', 'ip': '10.68.171.117'}, {'hostname': 'ats-edge-inde-8', 'ip': '10.68.171.118'}, {'hostname': 'ats-edge-inde-9', 'ip': '10.68.171.119'}, {'hostname': 'ats-edge-inde-10', 'ip': '10.68.171.120'}, {'hostname': 'ats-edge-inde-11', 'ip': '10.68.171.121'}, {'hostname': 'ats-edge-laci-1', 'ip': '10.68.122.180'}, {'hostname': 'ats-edge-laci-2', 'ip': '10.68.122.181'}, {'hostname': 'ats-edge-maip-1', 'ip': '10.68.122.172'}, {'hostname': 'ats-edge-maip-2', 'ip': '10.68.122.173'}, {'hostname': 'ats-edge-iqui-1', 'ip': '192.168.174.201'}, {'hostname': 'ats-edge-land-1', 'ip': '192.168.185.210'}]
+[2026-01-13 16:38:09] [ERROR] Connection timed out, please connect to VPN
+[2026-01-13 16:38:09] [DEBUG] Got username: admin
+[2026-01-13 16:38:09] [DEBUG] Got password: cl4r0vtr
+[2026-01-13 16:38:09] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xed2d2ab65340>
+[2026-01-13 16:38:09] [INFO] ***** Analyzing host: atc-host-1 (10.68.253.41) *****
+[2026-01-13 16:38:14] [ERROR] 10.68.253.41 --> Request timed out
+[2026-01-13 16:38:14] [ERROR] Failed to read health summary from atc-host-1
+[2026-01-13 16:38:14] [INFO] ***** Analyzing host: atc-host-2 (10.68.253.42) *****
+[2026-01-13 16:38:19] [ERROR] 10.68.253.42 --> Request timed out
+[2026-01-13 16:38:19] [ERROR] Failed to read health summary from atc-host-2
+[2026-01-13 16:38:19] [INFO] ***** Analyzing host: ats-edge-ra-1 (192.168.175.45) *****
+[2026-01-13 16:38:24] [ERROR] 192.168.175.45 --> Request timed out
+[2026-01-13 16:38:24] [ERROR] Failed to read health summary from ats-edge-ra-1
+[2026-01-13 16:38:24] [INFO] ***** Analyzing host: ats-edge-ra-2 (192.168.175.49) *****
+[2026-01-13 16:38:29] [ERROR] 192.168.175.49 --> Request timed out
+[2026-01-13 16:38:29] [ERROR] Failed to read health summary from ats-edge-ra-2
+[2026-01-13 16:38:29] [INFO] ***** Analyzing host: ats-edge-co-1 (10.68.176.202) *****
+[2026-01-13 16:38:34] [ERROR] 10.68.176.202 --> Request timed out
+[2026-01-13 16:38:34] [ERROR] Failed to read health summary from ats-edge-co-1
+[2026-01-13 16:38:34] [INFO] ***** Analyzing host: ats-edge-co-2 (10.68.176.201) *****
+[2026-01-13 16:38:39] [ERROR] 10.68.176.201 --> Request timed out
+[2026-01-13 16:38:39] [ERROR] Failed to read health summary from ats-edge-co-2
+[2026-01-13 16:38:39] [INFO] ***** Analyzing host: ats-edge-co-3 (10.68.176.203) *****
+[2026-01-13 16:38:44] [ERROR] 10.68.176.203 --> Request timed out
+[2026-01-13 16:38:44] [ERROR] Failed to read health summary from ats-edge-co-3
+[2026-01-13 16:38:44] [INFO] ***** Analyzing host: ats-edge-co-4 (10.68.176.204) *****
+[2026-01-13 16:38:49] [ERROR] 10.68.176.204 --> Request timed out
+[2026-01-13 16:38:49] [ERROR] Failed to read health summary from ats-edge-co-4
+[2026-01-13 16:38:49] [INFO] ***** Analyzing host: ats-edge-qota-1 (10.68.212.82) *****
+[2026-01-13 16:38:55] [ERROR] 10.68.212.82 --> Request timed out
+[2026-01-13 16:38:55] [ERROR] Failed to read health summary from ats-edge-qota-1
+[2026-01-13 16:38:55] [INFO] ***** Analyzing host: ats-edge-qota-2 (10.68.212.83) *****
+[2026-01-13 16:39:00] [ERROR] 10.68.212.83 --> Request timed out
+[2026-01-13 16:39:00] [ERROR] Failed to read health summary from ats-edge-qota-2
+[2026-01-13 16:39:00] [INFO] ***** Analyzing host: ats-edge-talc-1 (192.168.172.228) *****
+[2026-01-13 16:39:05] [ERROR] 192.168.172.228 --> Request timed out
+[2026-01-13 16:39:05] [ERROR] Failed to read health summary from ats-edge-talc-1
+[2026-01-13 16:39:05] [INFO] ***** Analyzing host: ats-edge-copi-1 (192.168.174.164) *****
+[2026-01-13 16:39:10] [ERROR] 192.168.174.164 --> Request timed out
+[2026-01-13 16:39:10] [ERROR] Failed to read health summary from ats-edge-copi-1
+[2026-01-13 16:39:10] [INFO] ***** Analyzing host: ats-edge-pmon-1 (192.168.179.240) *****
+[2026-01-13 16:39:15] [ERROR] 192.168.179.240 --> Request timed out
+[2026-01-13 16:39:15] [ERROR] Failed to read health summary from ats-edge-pmon-1
+[2026-01-13 16:39:15] [INFO] ***** Analyzing host: ats-edge-temu-1 (10.68.162.230) *****
+[2026-01-13 16:39:20] [ERROR] 10.68.162.230 --> Request timed out
+[2026-01-13 16:39:20] [ERROR] Failed to read health summary from ats-edge-temu-1
+[2026-01-13 16:39:20] [INFO] ***** Analyzing host: ats-edge-temu-2 (10.68.162.231) *****
+[2026-01-13 16:39:25] [ERROR] 10.68.162.231 --> Request timed out
+[2026-01-13 16:39:25] [ERROR] Failed to read health summary from ats-edge-temu-2
+[2026-01-13 16:39:25] [INFO] ***** Analyzing host: ats-edge-vald-1 (192.168.179.169) *****
+[2026-01-13 16:39:30] [ERROR] 192.168.179.169 --> Request timed out
+[2026-01-13 16:39:30] [ERROR] Failed to read health summary from ats-edge-vald-1
+[2026-01-13 16:39:30] [INFO] ***** Analyzing host: ats-edge-osor-1 (192.168.179.120) *****
+[2026-01-13 16:39:35] [ERROR] 192.168.179.120 --> Request timed out
+[2026-01-13 16:39:35] [ERROR] Failed to read health summary from ats-edge-osor-1
+[2026-01-13 16:39:35] [INFO] ***** Analyzing host: ats-edge-curi-1 (192.168.172.169) *****
+[2026-01-13 16:39:40] [ERROR] 192.168.172.169 --> Request timed out
+[2026-01-13 16:39:40] [ERROR] Failed to read health summary from ats-edge-curi-1
+[2026-01-13 16:39:40] [INFO] ***** Analyzing host: ats-edge-vina-1 (192.168.197.81) *****
+[2026-01-13 16:39:45] [ERROR] 192.168.197.81 --> Request timed out
+[2026-01-13 16:39:45] [ERROR] Failed to read health summary from ats-edge-vina-1
+[2026-01-13 16:39:45] [INFO] ***** Analyzing host: ats-edge-vina-2 (192.168.197.82) *****
+[2026-01-13 16:39:50] [ERROR] 192.168.197.82 --> Request timed out
+[2026-01-13 16:39:50] [ERROR] Failed to read health summary from ats-edge-vina-2
+[2026-01-13 16:39:50] [INFO] ***** Analyzing host: ats-edge-vina-3 (192.168.197.80) *****
+[2026-01-13 16:39:55] [ERROR] 192.168.197.80 --> Request timed out
+[2026-01-13 16:39:55] [ERROR] Failed to read health summary from ats-edge-vina-3
+[2026-01-13 16:39:55] [INFO] ***** Analyzing host: ats-edge-lser-1 (192.168.175.19) *****
+[2026-01-13 16:40:00] [ERROR] 192.168.175.19 --> Request timed out
+[2026-01-13 16:40:00] [ERROR] Failed to read health summary from ats-edge-lser-1
+[2026-01-13 16:40:00] [INFO] ***** Analyzing host: ats-edge-lser-2 (192.168.175.20) *****
+[2026-01-13 16:40:05] [ERROR] 192.168.175.20 --> Request timed out
+[2026-01-13 16:40:05] [ERROR] Failed to read health summary from ats-edge-lser-2
+[2026-01-13 16:40:05] [INFO] ***** Analyzing host: ats-edge-anto-1 (10.68.162.170) *****
+[2026-01-13 16:40:10] [ERROR] 10.68.162.170 --> Request timed out
+[2026-01-13 16:40:10] [ERROR] Failed to read health summary from ats-edge-anto-1
+[2026-01-13 16:40:10] [INFO] ***** Analyzing host: ats-edge-anto-2 (10.68.162.171) *****
+[2026-01-13 16:40:15] [ERROR] 10.68.162.171 --> Request timed out
+[2026-01-13 16:40:15] [ERROR] Failed to read health summary from ats-edge-anto-2
+[2026-01-13 16:40:15] [INFO] ***** Analyzing host: ats-edge-anto-3 (10.68.162.174) *****
+[2026-01-13 16:40:20] [ERROR] 10.68.162.174 --> Request timed out
+[2026-01-13 16:40:20] [ERROR] Failed to read health summary from ats-edge-anto-3
+[2026-01-13 16:40:20] [INFO] ***** Analyzing host: ats-edge-chil-1 (192.168.173.91) *****
+[2026-01-13 16:40:25] [ERROR] 192.168.173.91 --> Request timed out
+[2026-01-13 16:40:25] [ERROR] Failed to read health summary from ats-edge-chil-1
+[2026-01-13 16:40:25] [INFO] ***** Analyzing host: ats-edge-chil-2 (192.168.173.92) *****
+[2026-01-13 16:40:31] [ERROR] 192.168.173.92 --> Request timed out
+[2026-01-13 16:40:31] [ERROR] Failed to read health summary from ats-edge-chil-2
+[2026-01-13 16:40:31] [INFO] ***** Analyzing host: ats-edge-chil-3 (192.168.173.93) *****
+[2026-01-13 16:40:36] [ERROR] 192.168.173.93 --> Request timed out
+[2026-01-13 16:40:36] [ERROR] Failed to read health summary from ats-edge-chil-3
+[2026-01-13 16:40:36] [INFO] ***** Analyzing host: ats-edge-chil-4 (192.168.173.94) *****
+[2026-01-13 16:40:41] [ERROR] 192.168.173.94 --> Request timed out
+[2026-01-13 16:40:41] [ERROR] Failed to read health summary from ats-edge-chil-4
+[2026-01-13 16:40:41] [INFO] ***** Analyzing host: ats-edge-lcon-1 (192.168.175.217) *****
+[2026-01-13 16:40:46] [ERROR] 192.168.175.217 --> Request timed out
+[2026-01-13 16:40:46] [ERROR] Failed to read health summary from ats-edge-lcon-1
+[2026-01-13 16:40:46] [INFO] ***** Analyzing host: ats-edge-lcon-2 (192.168.175.218) *****
+[2026-01-13 16:40:51] [ERROR] 192.168.175.218 --> Request timed out
+[2026-01-13 16:40:51] [ERROR] Failed to read health summary from ats-edge-lcon-2
+[2026-01-13 16:40:51] [INFO] ***** Analyzing host: ats-edge-lcon-3 (192.168.175.219) *****
+[2026-01-13 16:40:56] [ERROR] 192.168.175.219 --> Request timed out
+[2026-01-13 16:40:56] [ERROR] Failed to read health summary from ats-edge-lcon-3
+[2026-01-13 16:40:56] [INFO] ***** Analyzing host: ats-edge-lcon-4 (192.168.175.220) *****
+[2026-01-13 16:41:01] [ERROR] 192.168.175.220 --> Request timed out
+[2026-01-13 16:41:01] [ERROR] Failed to read health summary from ats-edge-lcon-4
+[2026-01-13 16:41:01] [INFO] ***** Analyzing host: ats-edge-lcon-5 (192.168.188.213) *****
+[2026-01-13 16:41:06] [ERROR] 192.168.188.213 --> Request timed out
+[2026-01-13 16:41:06] [ERROR] Failed to read health summary from ats-edge-lcon-5
+[2026-01-13 16:41:06] [INFO] ***** Analyzing host: ats-edge-lcon-6 (192.168.188.214) *****
+[2026-01-13 16:41:11] [ERROR] 192.168.188.214 --> Request timed out
+[2026-01-13 16:41:11] [ERROR] Failed to read health summary from ats-edge-lcon-6
+[2026-01-13 16:41:11] [INFO] ***** Analyzing host: ats-edge-lang-1 (192.168.173.101) *****
+[2026-01-13 16:41:16] [ERROR] 192.168.173.101 --> Request timed out
+[2026-01-13 16:41:16] [ERROR] Failed to read health summary from ats-edge-lang-1
+[2026-01-13 16:41:16] [INFO] ***** Analyzing host: ats-edge-lang-2 (192.168.173.102) *****
+[2026-01-13 16:41:21] [ERROR] 192.168.173.102 --> Request timed out
+[2026-01-13 16:41:21] [ERROR] Failed to read health summary from ats-edge-lang-2
+[2026-01-13 16:41:21] [INFO] ***** Analyzing host: ats-edge-inde-1 (10.68.250.16) *****
+[2026-01-13 16:41:26] [ERROR] 10.68.250.16 --> Request timed out
+[2026-01-13 16:41:26] [ERROR] Failed to read health summary from ats-edge-inde-1
+[2026-01-13 16:41:26] [INFO] ***** Analyzing host: ats-edge-inde-2 (10.68.250.18) *****
+[2026-01-13 16:41:31] [ERROR] 10.68.250.18 --> Request timed out
+[2026-01-13 16:41:31] [ERROR] Failed to read health summary from ats-edge-inde-2
+[2026-01-13 16:41:31] [INFO] ***** Analyzing host: ats-edge-inde-3 (10.68.250.24) *****
+[2026-01-13 16:41:36] [ERROR] 10.68.250.24 --> Request timed out
+[2026-01-13 16:41:36] [ERROR] Failed to read health summary from ats-edge-inde-3
+[2026-01-13 16:41:36] [INFO] ***** Analyzing host: ats-edge-inde-4 (10.68.250.26) *****
+[2026-01-13 16:41:41] [ERROR] 10.68.250.26 --> Request timed out
+[2026-01-13 16:41:41] [ERROR] Failed to read health summary from ats-edge-inde-4
+[2026-01-13 16:41:41] [INFO] ***** Analyzing host: ats-edge-inde-5 (10.68.250.28) *****
+[2026-01-13 16:41:46] [INFO] Loading JSON file from config/config.json
+[2026-01-13 16:41:46] [DEBUG] JSON loaded succesfully
+[2026-01-13 16:41:46] [INFO] Loading JSON file from data/hosts.json
+[2026-01-13 16:41:46] [DEBUG] JSON loaded succesfully
+[2026-01-13 16:41:51] [ERROR] Connection timed out, please connect to VPN
+[2026-01-13 16:41:51] [DEBUG] Got username: admin
+[2026-01-13 16:41:51] [DEBUG] Got password: cl4r0vtr
+[2026-01-13 16:41:51] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xff0cc43e5190>
+[2026-01-13 16:41:51] [INFO] ***** Analyzing host: atc-host-1 (10.68.253.41) *****
+[2026-01-13 16:41:56] [ERROR] 10.68.253.41 --> Request timed out
+[2026-01-13 16:41:56] [ERROR] Failed to read health summary from atc-host-1
+[2026-01-13 16:41:56] [INFO] ***** Analyzing host: atc-host-2 (10.68.253.42) *****
+[2026-01-13 16:42:01] [ERROR] 10.68.253.42 --> Request timed out
+[2026-01-13 16:42:01] [ERROR] Failed to read health summary from atc-host-2
+[2026-01-13 16:42:01] [INFO] ***** Analyzing host: ats-edge-ra-1 (192.168.175.45) *****
+[2026-01-13 16:42:06] [ERROR] 192.168.175.45 --> Request timed out
+[2026-01-13 16:42:06] [ERROR] Failed to read health summary from ats-edge-ra-1
+[2026-01-13 16:42:06] [INFO] ***** Analyzing host: ats-edge-ra-2 (192.168.175.49) *****
+[2026-01-13 16:42:11] [ERROR] 192.168.175.49 --> Request timed out
+[2026-01-13 16:42:11] [ERROR] Failed to read health summary from ats-edge-ra-2
+[2026-01-13 16:42:11] [INFO] ***** Analyzing host: ats-edge-co-1 (10.68.176.202) *****
+[2026-01-13 16:43:03] [INFO] Loading JSON file from config/config.json
+[2026-01-13 16:43:03] [DEBUG] JSON loaded succesfully
+[2026-01-13 16:43:03] [INFO] Loading JSON file from data/hosts.json
+[2026-01-13 16:43:03] [DEBUG] JSON loaded succesfully
+[2026-01-13 16:43:08] [ERROR] Connection timed out, please connect to VPN
+[2026-01-13 16:43:08] [DEBUG] Got username: admin
+[2026-01-13 16:43:08] [DEBUG] Got password: cl4r0vtr
+[2026-01-13 16:43:08] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xeaf86e5b7590>
+[2026-01-13 16:43:08] [INFO] ***** Analyzing host: atc-host-1 (10.68.253.41) *****
+[2026-01-13 16:43:27] [ERROR] JSON file not found in config/configu.json: [Errno 2] No such file or directory: 'config/configu.json'
+[2026-01-13 16:52:56] [INFO] Loading JSON file from config/config.json
+[2026-01-13 16:52:56] [DEBUG] JSON loaded succesfully
+[2026-01-13 16:52:56] [INFO] Loading JSON file from data/hosts.json
+[2026-01-13 16:52:56] [DEBUG] JSON loaded succesfully
+[2026-01-13 16:53:01] [ERROR] Connection timed out, please connect to VPN
+[2026-01-13 16:53:01] [DEBUG] Got username: admin
+[2026-01-13 16:53:01] [DEBUG] Got password: cl4r0vtr
+[2026-01-13 16:53:01] [DEBUG] Succesfully created client: <utils.ilo_client.IloClient object at 0xfb657869d3a0>
+[2026-01-13 16:53:01] [INFO] ***** Analyzing host: atc-host-1 (10.68.253.41) *****
+[2026-01-13 16:53:06] [ERROR] 10.68.253.41 --> Request timed out
+[2026-01-13 16:53:06] [ERROR] Failed to read health summary from atc-host-1
+[2026-01-13 16:53:06] [INFO] ***** Analyzing host: atc-host-2 (10.68.253.42) *****
+[2026-01-13 16:59:36] [INFO] Loading JSON file from config/config.json
+[2026-01-13 16:59:36] [DEBUG] JSON loaded succesfully
+[2026-01-13 16:59:36] [INFO] Loading JSON file from data/hosts.json
+[2026-01-13 16:59:36] [DEBUG] JSON loaded succesfully
+[2026-01-13 16:59:41] [ERROR] Connection timed out, please connect to VPN
+[2026-01-13 17:00:38] [INFO] Loading JSON file from config/config.json
+[2026-01-13 17:00:38] [DEBUG] JSON loaded succesfully
+[2026-01-13 17:00:38] [INFO] Loading JSON file from data/hosts.json
+[2026-01-13 17:00:38] [DEBUG] JSON loaded succesfully
+[2026-01-13 17:00:43] [ERROR] Connection timed out, please connect to VPN: timed out
+[2026-01-13 17:01:30] [INFO] Loading JSON file from config/config.json
+[2026-01-13 17:01:30] [DEBUG] JSON loaded succesfully
+[2026-01-13 17:01:30] [INFO] Loading JSON file from data/hosts.json
+[2026-01-13 17:01:30] [DEBUG] JSON loaded succesfully
+[2026-01-13 17:01:35] [ERROR] Connection failed, please connect to VPN: timed out

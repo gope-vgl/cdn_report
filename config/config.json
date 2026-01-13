@@ -1,4 +1,5 @@
 {
   "hosts_file": "data/hosts.json",
-  "output_file": "output/report.log"
+  "output_file": "output/report.log",
+  "dns_ip": "172.17.169.41"
 }
