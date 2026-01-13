@@ -1,5 +1,5 @@
 import os
-from logger.logger_setup import logger_setup
+from logger.logger_setup import setup_logger
 from utils.json_utils import json_load
 from utils.dns_check import check_dns
 from utils.ilo_client import IloClient
@@ -8,7 +8,7 @@ import urllib3
 from urllib3.exceptions import InsecureRequestWarning
 urllib3.disable_warnings(InsecureRequestWarning)
 
-logger = logger_setup("cdn_report", "cdn_report.log")
+logger = setup_logger("cdn_report", "cdn_report.log")
 config = json_load('config/config.json')
 
 for key, value in config.items():

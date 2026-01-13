@@ -1,15 +1,13 @@
 import os
 from validators.validators import validate_key
-from logger.logger_setup import logger_setup
+from logger.logger_setup import setup_logger
 
-logger = logger_setup("cdn_report", "cdn_report.log")
+logger = setup_logger("cdn_report", "cdn_report.log")
 
 def process_host(client, host: dict):
     hostname = host["hostname"]
     ip = host["ip"]
-    logger.info(f'''------------------------------------------------------
-                            | Analyzing host: {hostname} with ip: {ip} |
-                            -------------------------------------------------------''')
+    logger.info(f'***** Analyzing host: {hostname} ({ip}) *****')
     username = os.environ.get("username", "admin")
     password = os.environ.get("password", "cl4r0vtr")
     data = client.get_health_summary(ip, username, password)

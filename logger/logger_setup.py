@@ -2,7 +2,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 from colorlog import ColoredFormatter
 
-def logger_setup(name: str = "app", filename: str = "app.log", level: int = logging.DEBUG, max_bytes: int = 5_000_000, backup_count: int = 3):
+def setup_logger(name: str = "app", filename: str = "app.log", level: int = logging.DEBUG, max_bytes: int = 5_000_000, backup_count: int = 3):
     logger = logging.getLogger(name)
     logger.setLevel(level)
     logger.propagate = False
