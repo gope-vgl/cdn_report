@@ -2,6 +2,7 @@ import os
 from validators.validators import validate_key
 from logger.logger_setup import setup_logger
 from utils.ilo_client import IloClient
+from config.auth import USER, PASSWD, FAILBACK_PASSWD
 
 logger = setup_logger("cdn_report", "cdn_report.log")
 
@@ -9,12 +10,9 @@ def process_host( host: dict[str, str], client: IloClient) -> None:
     hostname = host["hostname"]
     ip = host["ip"]
     logger.debug(f'***** Analyzing host: {hostname} ({ip}) *****')
-    username = os.environ.get("username", "admin")
-    password = os.environ.get("password", "cl4r0vtr")
-    failback_password = os.environ.get("failback_password", "cl4rovtr")
-    data = client.get_health_summary(ip, username, password, failback_password)
+    data = client.get_health_summary(ip, USER, PASSWD,FAILBACK_PASSWD)
     if data is None:
-        logger.error(f"Failed to read health summary from {hostname}")
+        logger.error(f"Failed to read health summary from {hostname} {ip}")
     else:
         for key, value in data.items():
             result = validate_key(key, value)

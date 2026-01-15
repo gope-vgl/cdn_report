@@ -7,6 +7,8 @@ from utils.json_utils import json_load
 from utils.host_check import check_vpn
 from utils.ilo_client import IloClient
 from processors.host_processor import process_host
+from config.auth import CONFIG_FILE
+
 
 # Disable SSL warnings (iLO uses self-signed certs)
 urllib3.disable_warnings(InsecureRequestWarning)
@@ -14,12 +16,12 @@ urllib3.disable_warnings(InsecureRequestWarning)
 logger = setup_logger("cdn_report", "cdn_report.log")
 
 def main() -> None:
-    logger.info("Starting CDN Report")
+    logger.debug("Starting CDN Report")
     
-    config_path = os.environ.get("CONFIG_FILE", "config/config.json")
+    config_file = os.environ.get("CONFIG_FILE", "config/config.json")
 
     try:
-        config = json_load(config_path)
+        config = json_load(config_file)
     except Exception:
         logger.critical("Failed to load configuration file")
         raise SystemExit(1)
@@ -41,7 +43,7 @@ def main() -> None:
     for host in hosts:
         process_host(host, client)
 
-    logger.info("CDN Report Finished")
+    logger.debug("CDN Report Finished")
 
 if __name__ == "__main__":
     main()
