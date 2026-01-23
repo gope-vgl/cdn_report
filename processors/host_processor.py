@@ -6,7 +6,7 @@ from config.auth import USER, PASSWD, FAILBACK_PASSWD
 
 logger = setup_logger("cdn_report", "cdn_report.log")
 
-def process_host( host: dict[str, str], client: IloClient) -> None:
+def process_host( host: dict[str, str], client: IloClient) -> bool:
     hostname = host["hostname"]
     ip = host["ip"]
     logger.debug(f'***** Analyzing host: {hostname} ({ip}) *****')
@@ -20,5 +20,8 @@ def process_host( host: dict[str, str], client: IloClient) -> None:
                 continue
             if result:
                 logger.info(f"{key}: {value} --> PASS")
+                success = True
             else:
                 logger.error(f"{key}: {value} --> FAILED")
+                success = False
+        return success
